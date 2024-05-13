@@ -1,0 +1,1 @@
+from tkinter import *from PIL import ImageTk, Imagroot=Tk()root.title("Endless Dice Game")root.geometry("600x400")root.configure(background="misty rose")main.loop()
